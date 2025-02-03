@@ -1,6 +1,6 @@
 # Customer Segmentation and Product Analysis
 
-This repository contains a Jupyter Notebook (or Python script) and a summary of findings for a customer segmentation and product analysis project conducted. The goal of this project was to identify the most profitable customer segments and best-selling products to help the marketing department focus their efforts effectively.
+This repository contains a Jupyter Notebook and a summary of findings for a customer segmentation and product analysis project conducted. The goal of this project was to identify the most profitable customer segments and best-selling products to help the marketing department focus their efforts effectively.
 
 ## Question
 
